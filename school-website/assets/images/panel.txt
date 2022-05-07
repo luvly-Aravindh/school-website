@@ -1,0 +1,8 @@
+username: embassyi
+password: 0Cg3Y2xv4s
+
+
+Database:	embassyi_school4
+Host:	localhost
+Username:	embassyi_school4
+Password:	School4@12345
